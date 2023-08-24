@@ -7,7 +7,7 @@
 - Edad: 48 Años
 - Casado
 - 2 Hijas
-- Docente Universitario
+- Docente Universitario de la unpaz
 
 ## Lenjuages de programación preferidos
 
