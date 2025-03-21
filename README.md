@@ -11,7 +11,7 @@
 
 ## Lenjuages de programación preferidos
 
-- JavaScrip
+- JavaScript
 - Java
 - Kotlin
 - Python
